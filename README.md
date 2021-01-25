@@ -1,7 +1,7 @@
 # AJAX Activity
 
 ## Description
-You will be making an infinite hapiness generate. We will use the free `Dog API` to render random pictures of dogs on our webpage! The documentation for the `API` can be found [here]("https://dog.ceo/dog-api/documentation/random"). You will be recreating the tool found on this page.
+You will be making an infinite hapiness generate. We will use the free `Dog API` to render random pictures of dogs on our webpage! The documentation for the `API` can be found [here](https://dog.ceo/dog-api/documentation/random). You will be recreating the tool found on this page.
 
 ## Instructions
 
